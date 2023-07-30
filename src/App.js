@@ -5,10 +5,7 @@ import { ThemeContext } from "./themeContext"
 
 
 function App() {
-
-const {themes, setThemes} =useContext
-(ThemeContext)
-
+const {themes} =useContext(ThemeContext)
   return (
     <ThemeProvider theme={themes} >
       <Home />

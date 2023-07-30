@@ -17,12 +17,17 @@ const Home = () => {
 
   return (
     <HomeMain>
-      <HomeTitle> <ReactTyped
-       strings={['THIS PAGE IS CREATED TO TEST STYLED COMPONENTS AND THEME STRUCTURE']}
-       typeSpeed={70}
-       backSpeed={10}
-       loop
-      /> </HomeTitle>
+      <HomeTitle>
+        {" "}
+        <ReactTyped
+          strings={[
+            "THIS PAGE IS CREATED TO TEST STYLED COMPONENTS AND THEME STRUCTURE",
+          ]}
+          typeSpeed={70}
+          backSpeed={10}
+          loop
+        />{" "}
+      </HomeTitle>
 
       <button onClick={handleTema}>SET THEME</button>
     </HomeMain>
