@@ -5,7 +5,7 @@
 
 # Styled Components and Theme Practice
 
-# Live at: https://typed-umut.netlify.app/
+## Live at: https://typed-umut.netlify.app/
 
 
 
