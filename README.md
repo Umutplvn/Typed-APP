@@ -2,7 +2,6 @@
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 <br>
-
 # Styled Components and Theme Practice
 
 ## Live at: https://typed-umut.netlify.app/
